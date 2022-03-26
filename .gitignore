@@ -5,6 +5,7 @@
 /frentend/node_modules
 /.pnp
 .pnp.js
+# git rm --cached portal
 
 # testing
 /coverage
